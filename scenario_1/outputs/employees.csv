@@ -1,0 +1,9 @@
+employee_id,first_name,last_name,department,job_title,manager_id,hire_date,termination_date,base_salary,currency,location,employment_status
+10201,Priya,Nguyen,Engineering,Director of Engineering,,2019-01-15,,210000.00,USD,"Austin, TX, US",active
+10250,Tom,Baker,Sales,VP Sales,,2018-06-01,,225000.00,USD,Remote - US,active
+10293,Maria,Alvarez,Engineering,Sr. Software Eng,10201,2022-03-14,,142000.00,USD,Remote - US,active
+10294,David,Chen,Engineering,Software Eng II,10201,2023-07-01,,118500.00,USD,"Austin, TX, US",active
+10301,Kwame,Osei,Sales,AE,10250,2021-11-28,2026-09-05,95000.00,USD,Remote-CA,terminated
+10320,Jin,Park,Sales,AE,10301,2024-02-20,,88000.00,USD,Remote - US,active
+10330,Lucia,Diaz,Engineering,Software Eng I,10201,2025-08-15,2026-12-31,105000.00,USD,"Austin, TX, US",active
+10340,Sean,O'Brien,Sales,SDR,10250,2025-05-19,,45.00,USD,Remote - US,active

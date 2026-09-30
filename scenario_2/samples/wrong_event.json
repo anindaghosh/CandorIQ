@@ -1,0 +1,6 @@
+{
+  "id": "evt_01J9ZK5C2X",
+  "event": "headcount.rejected",
+  "occurred_at": "2026-09-29T16:01:00Z",
+  "data": { "request_id": "hc_4823" }
+}

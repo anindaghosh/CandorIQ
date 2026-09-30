@@ -1,0 +1,66 @@
+{
+  "script_version": "2.0.0",
+  "effective_date": "2026-09-29",
+  "input_sha256": "93c9727b63d6d92a0f47bb8be389315cf7d1505b2a172b8e59d1076c2e128fe3",
+  "config_sha256": "3175dedb0a05a57cc95a1d0dedd54bf6d49240df32081451113cf39796b5704d",
+  "config_version": "2026-09-29.1",
+  "counts": {
+    "input_rows": 9,
+    "output_rows": 8,
+    "identical_duplicate_rows": 1,
+    "rejected_rows": 0
+  },
+  "summary_by_code": {
+    "errors": {},
+    "warnings": {
+      "identical_duplicate": 1,
+      "unmapped_location": 1,
+      "pending_termination": 1,
+      "salary_out_of_range": 1,
+      "manager_terminated": 1
+    }
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "source_rows": [
+        6
+      ],
+      "employee_id": "10294",
+      "code": "identical_duplicate",
+      "message": "identical duplicate rows removed"
+    },
+    {
+      "source_rows": [
+        7
+      ],
+      "employee_id": "10301",
+      "code": "unmapped_location",
+      "message": "location 'Remote-CA' has no confirmed mapping; passed through as-is"
+    },
+    {
+      "source_rows": [
+        9
+      ],
+      "employee_id": "10330",
+      "code": "pending_termination",
+      "message": "termination 2026-12-31 is after the effective date; loaded as active"
+    },
+    {
+      "source_rows": [
+        10
+      ],
+      "employee_id": "10340",
+      "code": "salary_out_of_range",
+      "message": "salary 45.00 is outside 10000-2000000; confirm it is annual base pay"
+    },
+    {
+      "source_rows": [
+        8
+      ],
+      "employee_id": "10320",
+      "code": "manager_terminated",
+      "message": "active employee reports to terminated manager 10301"
+    }
+  ]
+}

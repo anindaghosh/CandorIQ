@@ -1,0 +1,14 @@
+EmpID | Full_Name | Dept_Code | Title | Mgr_EmpID | Start_Date | Term_Date | Annual_Comp | Loc
+10201 | Nguyen, Priya | ENG-14 | Director of Engineering | | 01/15/2019 | | "$210,000.00" | Austin, TX
+10293 | Alvarez, Maria | ENG-14 | Sr. Software Eng | 10201 | 03/14/2022 | | "$142,000.00" | US-Remote
+10293 | Alvarez, Maria | ENG-14 | Staff Software Eng | 10201 | 03/14/2022 | | "$142,000.00" | US-Remote
+10350 | Van Der Berg Jan | ENG-14 | Software Eng II | 10201 | 04/02/2023 | | "$120,000.00" | Austin, TX
+10351 | Silva, Ana | MKT-09 | Designer | 10201 | 04/02/2023 | | "$95,000.00" | US-Remote
+10352 | Kim, Sam | ENG-14 | Software Eng I | 10201 | 13/45/2023 | | "$90,000.00" | Austin, TX
+10353 | Roy, Ila | ENG-14 | Software Eng I | 10201 | 01/10/2024 | | "TBD" | Austin, TX
+10354 | Wu, Li | ENG-14 | Software Eng I | 10354 | 01/10/2024 | | "$90,000.00" | Austin, TX
+10355 | Ford, Amy | ENG-14 | Software Eng I | 10356 | 01/10/2024 | | "$90,000.00" | Austin, TX
+10356 | Gray, Ben | ENG-14 | Software Eng I | 10355 | 01/10/2024 | | "$90,000.00" | Austin, TX
+10357 | Hale, Zoe | ENG-14 | Software Eng I | 10201 | 03/01/2024 | 01/01/2024 | "$90,000.00" | Austin, TX
+10358 | Lee, Max | ENG-14 |  | 10201 | 02/01/2024 | | "$90,000.00" | Austin, TX
+10359 | Moss, Eve | ENG-14 | Software Eng I | 10201 | 02/01/2024 | | "$90,000.00" | Austin | TX

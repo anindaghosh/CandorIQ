@@ -1,0 +1,28 @@
+{
+  "version": "2026-09-29.1",
+  "delimiter": "|",
+  "name_format": "last_first",
+  "date_format": "%m/%d/%Y",
+  "salary_symbol": "$",
+  "salary_range": [10000, 2000000],
+  "currency": "USD",
+  "field_map": {
+    "employee_id": "EmpID",
+    "full_name": "Full_Name",
+    "department_code": "Dept_Code",
+    "job_title": "Title",
+    "manager_id": "Mgr_EmpID",
+    "hire_date": "Start_Date",
+    "termination_date": "Term_Date",
+    "base_salary": "Annual_Comp",
+    "location": "Loc"
+  },
+  "department_map": {
+    "ENG-14": "Engineering",
+    "SLS-02": "Sales"
+  },
+  "location_map": {
+    "US-Remote": {"location": "Remote - US", "country": "US"},
+    "Austin, TX": {"location": "Austin, TX, US", "country": "US"}
+  }
+}

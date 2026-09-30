@@ -1,0 +1,18 @@
+{
+  "id": "evt_01J9ZK3M8Q",
+  "event": "headcount.approved",
+  "occurred_at": "2026-09-29T14:03:11Z",
+  "data": {
+    "request_id": "hc_4821",
+    "requester": {
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    "position_title": "Senior Data Engineer",
+    "department": "Data Platform",
+    "approved_budget": {
+      "amount": 185000,
+      "currency": "USD"
+    }
+  }
+}

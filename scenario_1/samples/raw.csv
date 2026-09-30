@@ -1,0 +1,10 @@
+EmpID | Full_Name | Dept_Code | Title | Mgr_EmpID | Start_Date | Term_Date | Annual_Comp | Loc
+10201 | Nguyen, Priya | ENG-14 | Director of Engineering | | 01/15/2019 | | "$210,000.00" | Austin, TX
+10250 | Baker, Tom | SLS-02 | VP Sales | | 06/01/2018 | | "$225,000.00" | US-Remote
+10293 | Alvarez, Maria | ENG-14 | Sr. Software Eng | 10201 | 03/14/2022 | | "$142,000.00" | US-Remote
+10294 | Chen, David | ENG-14 | Software Eng II | 10201 | 07/01/2023 | | "$118,500.00 " | Austin, TX
+10294 | Chen, David | ENG-14 | Software Eng II | 10201 | 07/01/2023 | | "$118,500.00 " | Austin, TX
+10301 | Osei, Kwame | SLS-02 | AE | 10250 | 11/28/2021 | 09/05/2026 | "$95,000.00" | Remote-CA
+10320 | Park, Jin | SLS-02 | AE | 10301 | 02/20/2024 | | "$88,000.00" | US-Remote
+10330 | Diaz, Lucia | ENG-14 | Software Eng I | 10201 | 08/15/2025 | 12/31/2026 | "$105,000.00" | Austin, TX
+10340 | O'Brien, Sean | SLS-02 | SDR | 10250 | 05/19/2025 | | "$45.00" | US-Remote

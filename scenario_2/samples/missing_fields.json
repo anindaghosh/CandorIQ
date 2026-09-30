@@ -1,0 +1,12 @@
+{
+  "id": "evt_01J9ZK4B7T",
+  "event": "headcount.approved",
+  "occurred_at": "2026-09-29T15:20:45Z",
+  "data": {
+    "request_id": "hc_4822",
+    "requester": {
+      "email": "bruce.wayne@example.com"
+    },
+    "position_title": "Account Executive"
+  }
+}
